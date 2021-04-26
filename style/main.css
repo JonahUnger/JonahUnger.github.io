@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  font: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+.content {
+  flex: 1 0 auto;
+}
+header {
+  text-align: center;
+  align-content: center;
+}
+.line1 {
+  border-style: Solid;
+  border-color: black;
+  border-width: 1px;
+  width: 75%;
+}
+.navlink {
+  font-size: large;
+}
+.brief-name {
+  align-content: center;
+  text-align: center;
+  border-right: solid black 1px;
+}
+.footer {
+  background-color: darkseagreen;
+  flex-shrink: 0;
+}
