@@ -8,6 +8,8 @@ body {
 }
 .content {
   flex: 1 0 auto;
+	width: 90%;
+	margin: auto;
 }
 header {
   text-align: center;
@@ -23,11 +25,21 @@ header {
   font-size: large;
 }
 .brief-name {
+	margin: auto;
   align-content: center;
   text-align: center;
-  border-right: solid black 1px;
+  border: solid black 1px;
 }
 .footer {
   background-color: darkseagreen;
   flex-shrink: 0;
+}
+.centered {
+	text-align: center;
+}
+.hobbies {
+	margin: auto;
+  align-content: center;
+  text-align: center;
+  border-right: solid black 1px;
 }
