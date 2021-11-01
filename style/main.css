@@ -36,6 +36,12 @@ header {
 .centered {
   text-align: center;
 }
+
+.groups {
+	margin: auto;
+  align-content: center;
+  text-align: center;
+}
 .hobbies {
   margin: auto;
   align-content: center;
