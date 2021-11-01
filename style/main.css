@@ -15,6 +15,13 @@ header {
   text-align: center;
   align-content: center;
 }
+#age {
+	background: #6C6C6C;
+	font: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	padding: 5px 5px;
+    display: inline-block;
+	border: 5px solid black;
+}
 .line1 {
   border-style: Solid;
   border-color: black;
