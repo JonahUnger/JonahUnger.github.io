@@ -36,9 +36,8 @@ header {
 .centered {
   text-align: center;
 }
-
 .groups {
-	margin: auto;
+  margin: auto;
   align-content: center;
   text-align: center;
 }
