@@ -1,6 +1,11 @@
 html, body {
   height: 100%;
 }
+body {
+  line-height: 1.3em;
+  min-width: 920px;
+  font: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
 header {
   text-align: center;
   align-content: center;
@@ -25,11 +30,6 @@ header {
 }
 .navlink {
   font-size: large;
-}
-body {
-  line-height: 1.3em;
-  min-width: 920px;
-  font: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 }
 .history-tl-container {
   width: 50%;
@@ -83,4 +83,15 @@ ul.tl li .timestamp {
   left: -50%;
   text-align: right;
   font-size: 12px;
+}
+.groups {
+  margin: auto;
+  align-content: center;
+  text-align: center;
+}
+.hobbies {
+  margin: auto;
+  align-content: center;
+  text-align: center;
+  border-right: solid black 1px;
 }
