@@ -1,35 +1,7 @@
-html, body {
-  height: 100%;
-}
-body {
+.about-body {
   line-height: 1.3em;
   min-width: 920px;
   font: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-}
-header {
-  text-align: center;
-  align-content: center;
-}
-.footer {
-  background-color: darkseagreen;
-  flex-shrink: 0;
-}
-.centered {
-  text-align: center;
-}
-.content {
-  flex: 1 0 auto;
-  width: 80%;
-  margin: auto;
-}
-.line1 {
-  border-style: Solid;
-  border-color: black;
-  border-width: 1px;
-  width: 75%;
-}
-.navlink {
-  font-size: large;
 }
 .history-tl-container {
   width: 50%;
@@ -83,15 +55,4 @@ ul.tl li .timestamp {
   left: -50%;
   text-align: right;
   font-size: 12px;
-}
-.groups {
-  margin: auto;
-  align-content: center;
-  text-align: center;
-}
-.hobbies {
-  margin: auto;
-  align-content: center;
-  text-align: center;
-  border-right: solid black 1px;
 }
