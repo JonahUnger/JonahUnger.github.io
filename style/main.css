@@ -6,42 +6,33 @@ body {
   flex-direction: column;
   font: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 }
-.content {
-  flex: 1 0 auto;
-  width: 80%;
-  margin: auto;
-}
 header {
   text-align: center;
   align-content: center;
 }
 #age {
-	background: #6C6C6C;
-	font: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
-	padding: 5px 5px;
-    display: inline-block;
-	border: 5px solid black;
-}
-.line1 {
-  border-style: Solid;
-  border-color: black;
-  border-width: 1px;
-  width: 75%;
-}
-.navlink {
-  font-size: large;
+  background: #6C6C6C;
+  font: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+  padding: 5px 5px;
+  display: inline-block;
+  border: 5px solid black;
 }
 .brief-name {
   margin: auto;
   align-content: center;
   text-align: center;
 }
+.centered {
+  text-align: center;
+}
+.content {
+  flex: 1 0 auto;
+  width: 80%;
+  margin: auto;
+}
 .footer {
   background-color: darkseagreen;
   flex-shrink: 0;
-}
-.centered {
-  text-align: center;
 }
 .groups {
   margin: auto;
@@ -53,4 +44,13 @@ header {
   align-content: center;
   text-align: center;
   border-right: solid black 1px;
+}
+.line1 {
+  border-style: Solid;
+  border-color: black;
+  border-width: 1px;
+  width: 75%;
+}
+.navlink {
+  font-size: large;
 }
