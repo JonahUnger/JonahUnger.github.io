@@ -54,3 +54,11 @@ header {
 .navlink {
   font-size: large;
 }
+.rightaligned{
+	align-content: right;
+	text-align: right;
+}
+.leftaligned{
+	align-content: left;
+	text-align: left;
+}
