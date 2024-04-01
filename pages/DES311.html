@@ -98,7 +98,7 @@ var LZString={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01234
 		<div id="init-lacking"><p>Browser lacks capabilities required to play.</p><p>Upgrade or switch to another browser.</p></div>
 		<div id="init-loading"><div>Loading&hellip;</div></div>
 	</div>
-	<tw-storydata name="DES311 Project" startnode="1" creator="Twine" creator-version="2.8.1" format="SugarCube" format-version="2.36.1" ifid="96834ED7-0714-4EA3-AC4C-61010984BB0D" options="" tags="" zoom="0.3" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">.cafe {
+	<tw-storydata name="DES311 Project" startnode="1" creator="Twine" creator-version="2.8.1" format="SugarCube" format-version="2.36.1" ifid="96834ED7-0714-4EA3-AC4C-61010984BB0D" options="" tags="" zoom="0.6" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">.cafe {
   
 }  </style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Arrival" tags="" position="850,125" size="100,100">&lt;&lt;set $BeanRep = 0&gt;&gt;
 &lt;&lt;set $ArthurRep = 0&gt;&gt;
@@ -152,11 +152,11 @@ Bean gives you a short, reluctant &quot;Thanks,&quot; before scuttling away to h
 &lt;&lt;/if&gt;&gt;
 
 &lt;&lt;if $ArthurRep lt 1&gt;&gt;
-[[Help Arthur]] 
-&lt;&lt;elseif $ArthurRep gte 1&gt;&gt;
-[[Ask Arthur if he needs more help|Return to Arthur]]
+[[Help Arthur]]
 &lt;&lt;elseif $HasPhotograph is true&gt;&gt;
 [[Talk to Arthur]]
+&lt;&lt;elseif $ArthurRep gte 1&gt;&gt;
+[[Ask Arthur if he needs more help|Return to Arthur]]
 &lt;&lt;/if&gt;&gt;</tw-passagedata><tw-passagedata pid="8" name="Return to Bean" tags="" position="525,525" size="100,100">Bean is sitting and chatting with your Granny Mae, while Toast the Crab picks at a small chunk of bread. Bean falls quiet when you approach, but after a nudge from Granny Mae he coughs.
 &quot;Yes, well... thank you for your help.&quot;
 
