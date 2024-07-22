@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Jonah\\GitHub\\JonahUnger.github.io\\pages\\works.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\works.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Jonah\\GitHub\\JonahUnger.github.io\\pages\\DES311.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\DES311.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,16 +15,20 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Jonah\\GitHub\\JonahUnger.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Jonah\\GitHub\\JonahUnger.github.io\\pages\\resume.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\resume.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Jonah\\GitHub\\JonahUnger.github.io\\pages\\works.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\works.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Jonah\\GitHub\\JonahUnger.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Jonah\\GitHub\\JonahUnger.github.io\\style\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:style\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Jonah\\GitHub\\JonahUnger.github.io\\style\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:style\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Jonah\\GitHub\\JonahUnger.github.io\\pages\\v1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,19 +42,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "about.css",
+              "DocumentMoniker": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\style\\about.css",
+              "RelativeDocumentMoniker": "style\\about.css",
+              "ToolTip": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\style\\about.css",
+              "RelativeToolTip": "style\\about.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-22T16:57:34.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.css",
+              "DocumentMoniker": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\style\\main.css",
+              "RelativeDocumentMoniker": "style\\main.css",
+              "ToolTip": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\style\\main.css",
+              "RelativeToolTip": "style\\main.css",
+              "ViewState": "AQIAAAkAAAAgZmZmZmYkwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-22T16:57:32.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "works.html",
               "DocumentMoniker": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\pages\\works.html",
               "RelativeDocumentMoniker": "pages\\works.html",
               "ToolTip": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\pages\\works.html",
               "RelativeToolTip": "pages\\works.html",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAAEUAAAAHAAAA",
+              "ViewState": "AQIAAB0AAAAANDMzMzMbwCUAAADwAQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-10T14:34:21.132Z"
+              "WhenOpened": "2024-05-10T14:34:21.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,38 +91,40 @@
               "RelativeDocumentMoniker": "pages\\resume.html",
               "ToolTip": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\pages\\resume.html",
               "RelativeToolTip": "pages\\resume.html",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-10T14:34:19.653Z"
+              "WhenOpened": "2024-05-10T14:34:19.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAAAD0AAAAwAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAD0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-10T14:34:15.848Z"
+              "WhenOpened": "2024-05-10T14:34:15.848Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "about.html",
               "DocumentMoniker": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\pages\\about.html",
               "RelativeDocumentMoniker": "pages\\about.html",
               "ToolTip": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\pages\\about.html",
               "RelativeToolTip": "pages\\about.html",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAADYAAAAwAAAA",
+              "ViewState": "AQIAAA8AAAAAmpmZmZkJwB0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-05-10T14:34:01.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "v1.html",
               "DocumentMoniker": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\pages\\v1.html",
               "RelativeDocumentMoniker": "pages\\v1.html",
@@ -95,17 +132,18 @@
               "RelativeToolTip": "pages\\v1.html",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-20T15:59:14.511Z"
+              "WhenOpened": "2024-04-20T15:59:14.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DES311.html",
               "DocumentMoniker": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\pages\\DES311.html",
               "RelativeDocumentMoniker": "pages\\DES311.html",
               "ToolTip": "E:\\Jonah\\GitHub\\JonahUnger.github.io\\pages\\DES311.html",
               "RelativeToolTip": "pages\\DES311.html",
-              "ViewState": "AQIAACMAAAAAAAAAAAAowDMAAABrAAAA",
+              "ViewState": "AQIAABkAAACgmZmZmZkvwDsAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-04-20T10:55:13.572Z",
               "EditorCaption": ""

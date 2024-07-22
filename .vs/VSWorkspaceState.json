@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\pages"
+    "\\js",
+    "\\pages",
+    "\\style"
   ],
+  "SelectedNode": "\\pages\\about.html",
   "PreviewInSolutionExplorer": false
 }
